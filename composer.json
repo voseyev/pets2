@@ -1,0 +1,12 @@
+{
+  "name":"zkunitsa/328/pets2",
+  "authors":[
+    {
+        "name":"ZachKunitsa",
+        "email":"zkunitsa@greenriver.edu"
+    }
+  ],
+  "require":{
+  "bcosca/fatfree-core":"dev-master"
+    }
+}
